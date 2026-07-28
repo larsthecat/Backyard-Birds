@@ -1,6 +1,6 @@
 ---
-name: Other
-about: Anything
+name: Bug Report
+about: Bug
 title: ''
 labels: ''
 assignees: ''
